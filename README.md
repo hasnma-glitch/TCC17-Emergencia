@@ -10,7 +10,7 @@ Que o objetivo é disponibilizar uma busca por um hospital, que melhor possa ate
 
 English:
 
-Technical Course Completion Project (TCC) of the year 2016/2017 The project is called Emergência.
+Technical Course Completion Project (TCC) of the year 2016/2017 The project is called <i>Emergência</i>.
 
 <p><strong>How was the project?</strong></p>
 It was a project that searches for hospitals and informs some information about it, in order to help in their choice in case of emergency. That the goal is to provide a search for a hospital that can better assist a patient in an agile way. The services offered will be a pre-registration form and a search system provided by information that can assist the customer in his choice.
